@@ -4,7 +4,7 @@ This is the official repository for the OnHover Implementation created for Googl
 
 This repository contains a sample implementation of one how could emulate a OnHover setup, where, for eg: a cursor at the center of the map could be used to hover over the elements.
 
-The OnHover implementation works as follows:
+## The OnHover implementation works as follows:
 1. A sample GoogleMap fragment is used, and a location pin stock image is placed at the center of the map to act as a cursor, where the hovering is done.
 2. An object called the LatLngDistanceKeeper is created, which stores information regarding each marked point, such as Latitude, Longitude, associated text with element, and details of ImageView and TextView elements used with each region marked on the map.
 3. An ArrayList of LatLngDistanceKeeper is initialized, used later in the application.
@@ -28,4 +28,4 @@ This repository's sample implementation can be used as a reference for other wor
 Suggestions, Contributions and Improvements are welcome for this project :)
 
 Thank You
-Created by HVEPYC.
+## Created by HVEPYC.
